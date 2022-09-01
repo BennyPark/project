@@ -58,3 +58,5 @@
 - 라이브러리 : ```flask```, ```SQLAlchemy```,```Pandas```,```Psycopg2``` 등등
 - 내용 : 교외장학금을 카카오 쳇봇으로 간편하게 검색하는 코드. 
 - [최종 PDF](https://github.com/BennyPark/project/blob/main/dream_spon_project/introduce%20our%20chatbot_PPT.pdf)
+- [PPT 발표 영상](https://www.youtube.com/watch?v=mu_VoVjM4fo&feature=youtu.be)
+- [챗봇 시연 영상](https://www.youtube.com/watch?v=qog-8tUYyuI)
