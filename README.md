@@ -57,4 +57,4 @@
 - 플랫폼 : ```Heroku```
 - 라이브러리 : ```flask```, ```SQLAlchemy```,```Pandas```,```Psycopg2``` 등등
 - 내용 : 교외장학금을 카카오 쳇봇으로 간편하게 검색하는 코드. 
-- [최종 PDF]()
+- [최종 PDF](https://github.com/BennyPark/project/blob/main/dream_spon_project/introduce%20our%20chatbot_PPT.pdf)
